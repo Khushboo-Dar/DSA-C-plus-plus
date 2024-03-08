@@ -1,22 +1,4 @@
-/*#include<iostream>
-using namespace std;
-int hammingweight(int x)
-{
-    int count =0;
-    while(x)
-    {
-        count+=x&1;
-        x>>1;
-    }
-    cout<<count;
-    return count;
-}
-int main()
-{ cout<<" and is ";
-int a = 4 & 1;
-cout<<a;
-    hammingweight(5);
-}*/
+
 #include <iostream>
 using namespace std;
 class Box{ 
