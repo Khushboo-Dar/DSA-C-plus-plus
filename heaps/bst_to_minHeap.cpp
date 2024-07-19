@@ -6,7 +6,6 @@ using namespace std;
 
 // Structure of a node of BST
 struct Node {
-
 	int data;
 	Node *left, *right;
 };
